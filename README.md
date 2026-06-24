@@ -37,6 +37,6 @@ Tools Used
 
 Kali Linux · Nmap · Metasploit Framework · Hydra · Splunk Enterprise · iptables · tcpdump
 
-## 👤 Author
+Author
 
 Fernando Sanchez Juarez — Cybersecurity Portfolio
